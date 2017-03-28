@@ -11,6 +11,5 @@ conflict 2
 changes 2
 conflict 3
 
-ABC
-
+lame lame
 
